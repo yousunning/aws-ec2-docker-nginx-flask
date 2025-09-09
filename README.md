@@ -1,4 +1,4 @@
-# EC2 + Docker + Nginx 실습 (Day1~Day2)
+# EC2 + Docker + Nginx 실습
 
 AWS EC2 환경에서 Docker를 활용해 Nginx 웹 서버를 실행하고,
 사용자 정의 HTML을 배포하는 실습 프로젝트입니다.
@@ -22,7 +22,7 @@ ec2-docker-nginx-tutorial/
 ├── README.md
 └── images/
 
-⚡ 실행 방법
+⚡ 실행 방법 (Day1~Day2)
 1. EC2 인스턴스 접속
 ssh -i my-key.pem ubuntu@<EC2_PUBLIC_IP>
 
