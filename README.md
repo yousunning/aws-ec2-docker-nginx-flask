@@ -43,7 +43,19 @@ sudo docker run -d -p 80:80 \
 📷 실행 화면
 EC2 인스턴스 생성
 
+<img width="1313" height="393" alt="image" src="https://github.com/user-attachments/assets/3289d72d-3683-4c4b-8bff-c6d6caeac5e3" />
+
+
 Nginx 페이지 접속 성공
 
+<img width="655" height="352" alt="image" src="https://github.com/user-attachments/assets/73f0a957-f226-422b-ab4d-2914e15ce033" />
+
+
 커스텀 HTML 적용
+
+<img width="655" height="352" alt="image" src="https://github.com/user-attachments/assets/3cc0cc9c-0eb7-44ec-bae5-cce300afc11b" />
+
+<img width="742" height="190" alt="image" src="https://github.com/user-attachments/assets/b8f74bd9-82ad-4379-96c7-0a0be692d108" />
+
+
 ```
