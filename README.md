@@ -47,6 +47,7 @@ EC2 인스턴스 생성
 Nginx 페이지 접속 성공
 ![EC2인스턴스생성](images/Day2_nginx.pdf)
 
+
 커스텀 HTML 적용
 ![HTML1](images/Day2_html마운트실행.pdf)
 ![HTML2](images/Nginx-HTML적용.pdf)
