@@ -42,12 +42,12 @@ sudo docker run -d -p 80:80 \
 
 📷 실행 화면
 EC2 인스턴스 생성
-![EC2인스턴스생성](/images/EC2인스턴스생성.png)
+![EC2인스턴스생성](images/EC2인스턴스생성.png)
 
 Nginx 페이지 접속 성공
-![EC2인스턴스생성](/images/Day2_nginx.png)
+![EC2인스턴스생성](images/Day2_nginx.png)
 
 커스텀 HTML 적용
-![HTML1](/images/Day2_html마운트실행.png)
-![HTML2](/images/Nginx-HTML적용.png)
+![HTML1](images/Day2_html마운트실행.png)
+![HTML2](images/Nginx-HTML적용.png)
 ```
