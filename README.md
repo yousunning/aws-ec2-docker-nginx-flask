@@ -21,6 +21,7 @@ ec2-docker-nginx-tutorial/
 ├── index.html
 ├── README.md
 └── images/
+```
 
 ⚡ 실행 방법 (Day1~Day2)
 1. EC2 인스턴스 접속
