@@ -21,20 +21,22 @@ ec2-docker-nginx-tutorial/
 ├── index.html
 ├── README.md
 └── images/
+```
 
 ⚡ 실행 방법 (Day1~Day2)
+
 1. EC2 인스턴스 접속
-ssh -i my-key.pem ubuntu@<EC2_PUBLIC_IP>
+   ssh -i my-key.pem ubuntu@<EC2_PUBLIC_IP>
 
 2. Nginx 실행
-sudo docker run -d -p 80:80 nginx
+   sudo docker run -d -p 80:80 nginx
 
 3. HTML 커스터마이징
-echo "<h1>Hello from EC2 + Docker + Nginx!</h1>" > index.html
+   echo "<h1>Hello from EC2 + Docker + Nginx!</h1>" > index.html
 
 sudo docker run -d -p 80:80 \
-  -v $(pwd)/index.html:/usr/share/nginx/html/index.html \
-  nginx
+ -v $(pwd)/index.html:/usr/share/nginx/html/index.html \
+ nginx
 
 4. 브라우저 확인
 
@@ -50,4 +52,7 @@ Nginx 페이지 접속 성공
 커스텀 HTML 적용
 ![HTML1](images/html-input.png)
 ![HTML2](images/html-output.png)
+
+```
+
 ```
